@@ -7,3 +7,5 @@ now im pretending that im adding code so that i can practice another commit. Wha
 3.git add "file"
 4. git commit "File" -m "Message"
 5. git push
+
+I'm adding this part in from my browser on github, to see if i can then pull the change onto my desktop file. 
